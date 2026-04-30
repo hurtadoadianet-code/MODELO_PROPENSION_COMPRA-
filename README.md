@@ -2,6 +2,8 @@
 Modelo de Machine Learning para predecir la propensión de compra de clientes, con integración de un agente de IA conversacional para consultas dinámicas en tiempo real.
 Este proyecto desarrolla un ecosistema analítico completo para predecir la probabilidad de compra de los clientes. El flujo abarca desde el tratamiento de datos y modelado predictivo avanzado hasta la implementación de un agente de IA conversacional para facilitar la toma de decisiones basada en datos.
 
+
+
 **Estructura del Proyecto**
 El repositorio se organiza de la siguiente manera:
 
